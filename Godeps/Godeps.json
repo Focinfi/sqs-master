@@ -46,71 +46,71 @@
 		},
 		{
 			"ImportPath": "github.com/Focinfi/sqs/agent",
-			"Rev": "40b79b57abf266e3f10ac676b2130eec94195dcf"
+			"Rev": "5dc635d0c1217284c73e1241bad47284cc24af1e"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/sqs/config",
-			"Rev": "40b79b57abf266e3f10ac676b2130eec94195dcf"
+			"Rev": "5dc635d0c1217284c73e1241bad47284cc24af1e"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/sqs/errors",
-			"Rev": "40b79b57abf266e3f10ac676b2130eec94195dcf"
+			"Rev": "5dc635d0c1217284c73e1241bad47284cc24af1e"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/sqs/external",
-			"Rev": "40b79b57abf266e3f10ac676b2130eec94195dcf"
+			"Rev": "5dc635d0c1217284c73e1241bad47284cc24af1e"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/sqs/log",
-			"Rev": "40b79b57abf266e3f10ac676b2130eec94195dcf"
+			"Rev": "5dc635d0c1217284c73e1241bad47284cc24af1e"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/sqs/master",
-			"Rev": "40b79b57abf266e3f10ac676b2130eec94195dcf"
+			"Rev": "5dc635d0c1217284c73e1241bad47284cc24af1e"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/sqs/models",
-			"Rev": "40b79b57abf266e3f10ac676b2130eec94195dcf"
+			"Rev": "5dc635d0c1217284c73e1241bad47284cc24af1e"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/sqs/storage",
-			"Rev": "40b79b57abf266e3f10ac676b2130eec94195dcf"
+			"Rev": "5dc635d0c1217284c73e1241bad47284cc24af1e"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/sqs/storage/etcd",
-			"Rev": "40b79b57abf266e3f10ac676b2130eec94195dcf"
+			"Rev": "5dc635d0c1217284c73e1241bad47284cc24af1e"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/sqs/storage/gomap",
-			"Rev": "40b79b57abf266e3f10ac676b2130eec94195dcf"
+			"Rev": "5dc635d0c1217284c73e1241bad47284cc24af1e"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/sqs/storage/oncekv",
-			"Rev": "40b79b57abf266e3f10ac676b2130eec94195dcf"
+			"Rev": "5dc635d0c1217284c73e1241bad47284cc24af1e"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/sqs/util/fmtutil",
-			"Rev": "40b79b57abf266e3f10ac676b2130eec94195dcf"
+			"Rev": "5dc635d0c1217284c73e1241bad47284cc24af1e"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/sqs/util/githubutil",
-			"Rev": "40b79b57abf266e3f10ac676b2130eec94195dcf"
+			"Rev": "5dc635d0c1217284c73e1241bad47284cc24af1e"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/sqs/util/httputil",
-			"Rev": "40b79b57abf266e3f10ac676b2130eec94195dcf"
+			"Rev": "5dc635d0c1217284c73e1241bad47284cc24af1e"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/sqs/util/strconvutil",
-			"Rev": "40b79b57abf266e3f10ac676b2130eec94195dcf"
+			"Rev": "5dc635d0c1217284c73e1241bad47284cc24af1e"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/sqs/util/token",
-			"Rev": "40b79b57abf266e3f10ac676b2130eec94195dcf"
+			"Rev": "5dc635d0c1217284c73e1241bad47284cc24af1e"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/sqs/util/urlutil",
-			"Rev": "40b79b57abf266e3f10ac676b2130eec94195dcf"
+			"Rev": "5dc635d0c1217284c73e1241bad47284cc24af1e"
 		},
 		{
 			"ImportPath": "github.com/Sirupsen/logrus",
